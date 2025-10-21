@@ -6,9 +6,23 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgardosilva.es/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@gago.dev)
 
-Full-stack web developer passionate about creating innovative and efficient solutions 💻. I enjoy building modern web applications and continuously learning new technologies. Feel free to explore my projects and connect with me!
+Full-stack web developer passionate about creating innovative and efficient solutions 💻. I enjoy building modern web applications and continuously learning new technologies. I also create educational programming content on TikTok to help others learn web development!
 
-## Tech Stack �
+## 📱 Content Creator
+
+I share programming tips, tutorials, and web development content on TikTok! Check out some of my recent videos:
+
+<div align="center">
+
+### 🎥 Latest Videos
+
+**[📺 See all my programming content →](https://www.tiktok.com/@gago.dev)**
+
+</div>
+
+---
+
+## Tech Stack 🚀
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
