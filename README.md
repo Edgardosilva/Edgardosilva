@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Edgardo Silva
 
-![Banner Edgardo Silva](portfolioLinkedin.jpg)
+![Banner Edgardo Silva](Linkedinbanner.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgardosilva.es/)
